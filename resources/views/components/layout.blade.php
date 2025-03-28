@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
     <script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body>
 <!--START SECTION 1 - THE NAVBAR SECTION-->
@@ -30,9 +31,9 @@
           <li class="nav-item"><a class="nav-link" href="#contact">contact</a>
           </li>
         </ul>
-        <button type="button" class="rounded-pill btn-rounded d-inline-flex align-items-center" onclick="window.location.href='tel:+22960476060'">
-            +229 60 47 60 60
-            <span class="ms-2"><i class="fas fa-phone-alt"></i></span>
+        <button type="button" class="rounded-pill btn-rounded" onclick="window.location.href='#footer'">
+            Contactez-nous
+            <span><i class="fas fa-phone-alt"></i></span>
         </button>
       </div>
     </div>
@@ -51,9 +52,9 @@
            Une startup africaine polyvalente qui vous accompagne dans la digitalisation et la gestion de vos activités
           </span>
         </h1>
-        <button type="button" class="rounded-pill btn-rounded d-inline-flex align-items-center" onclick="window.location.href='#footer'">
+        <button type="button" class="btn-rounded rounded-pill" onclick="window.location.href='#footer'">
             Contactez-nous
-            <span class="ms-2"><i class="fas fa-arrow-right"></i></span>
+            <span><i class="fas fa-arrow-right"></i></span>
         </button>
       </div>
       <!-- START THE CONTENT FOR THE VIDEO -->
